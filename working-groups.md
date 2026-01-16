@@ -28,7 +28,7 @@ The action is structured into several working groups, each focusing on specific 
   <p>This work package creates and promotes a community-driven Manifesto that defines ethical, open, and sustainable principles for EEG research. It aims for cultural change by engaging researchers, institutions, journals, and funders to endorse and implement best practices in open and responsible EEG science.</p>
   <table style="width: 80%; text-align: left; vertical-align: top;">
     <td><h4>Leader:</h4>{% include person id="maximilien" %}</td>
-    <td><h4>Vice-leader:</h4>{% include person id="tba" %}</td>
+    <td><h4>Vice-leader:</h4>{% include person id="alexandra" %}</td>
   </table>
 </div>
 
