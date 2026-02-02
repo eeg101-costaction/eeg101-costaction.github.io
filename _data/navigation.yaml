@@ -7,15 +7,15 @@
 - title: Working Groups
   url: /working-groups
   match: working-groups
+- title: Grants
+  url: /grants
+  match: grants
 - title: Join
   url: /join
   match: join
 - title: News
   url: /news
   match: news
-- title: Grants
-  url: /grants
-  match: grants
 - title: Contact
   url: /contact
   match: contact
