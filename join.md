@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Join the EEG101 network
 ---
 

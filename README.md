@@ -27,8 +27,7 @@ Create `.md` file with front matter, followed by Markdown formatted content:
 
    ```yaml
    ---
-   layout: default
-   title: Page Title
+      title: Page Title
    ---
    ```
 

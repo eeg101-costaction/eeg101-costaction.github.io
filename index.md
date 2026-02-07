@@ -1,5 +1,4 @@
 ---
-layout: default
 title: EEG101 - Fundamentals of Open & Rigorous EEG Science
 ---
 

@@ -12,6 +12,14 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
 # Exclude from processing
 exclude:
   - Gemfile
@@ -21,3 +29,4 @@ exclude:
   - LICENSE.md
   - README.md
   - '**/README.md'
+
