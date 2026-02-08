@@ -3,7 +3,7 @@
     <div class="footer-content">
       <table style="width: 100%;">
         <td style="text-align: left;">
-          <a href="https://www.cost.eu"><img src="/assets/images/logo/COST_LOGO_mediumgrey_lowresolution.jpg" height="75px"></a>
+          <a href="https://www.cost.eu"><img src="/assets/images/logo/COST_LOGO_white_transparentbackground.png" height="75px"></a>
         </td>
         <td style="text-align: center;">
           <p>&copy; {{ 'now' | date: "%Y" }} {{ site.description }}.</p>
