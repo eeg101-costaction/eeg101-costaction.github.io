@@ -10,8 +10,7 @@ To be eligible for EEG101 activities and funding calls — including **Short-Ter
 
 **There is no cost to join EEG101.** Membership is open to researchers, clinicians, students, and technical specialists at all career stages and from all countries. EEG101 particularly encourages applications from individuals based in underrepresented countries, as well as from communities and groups that have historically been underrepresented in EEG research and science more broadly. Building a diverse and inclusive network is a core principle of the Action, and broader participation is essential to achieving its scientific and capacity-building goals.
 
-You can learn more about the scope, objectives, and governance of the Action in the official  
-👉 [Memorandum of Understanding (MoU)](https://e-services.cost.eu/files/domain_files/CA/Action_CA24148/mou/CA24148-e.pdf)
+You can learn more about the scope, objectives, and governance of the Action in the official  [Memorandum of Understanding (MoU)](https://e-services.cost.eu/files/domain_files/CA/Action_CA24148/mou/CA24148-e.pdf)
 
 Whether you’re curious, experienced, or just getting started — **you’re welcome here**.
 
@@ -19,25 +18,24 @@ Whether you’re curious, experienced, or just getting started — **you’re we
 
 ## How to Join EEG101
 
-### 🚀 Step 1 — Join a Working Group
+### Step 1 — Register on e-cost platorm 🇪🇺
 
-The first step is to register for one (or more) EEG101 [Working Groups](/working-groups) via the official COST platform:
+The first step is to register for one (or more) EEG101 Working Groups via the official COST platform:
 
 👉 **Register via e-COST:** [Apply to COST Action CA24148 (EEG101)](https://e-services.cost.eu/action/CA24148/working-groups/apply)
 
 Once an application is submitted through e-COST, it is reviewed by the EEG101 Action Chair. Decisions are typically made within one month, after which applicants receive confirmation through the platform and are recognised as full Working Group members.
 
----
 
-### 💬 Step 2 — Join the EEG101 Discord
+### Step 2 — Join the EEG101 Discord  💬 
 
-Once registered, join the [Discord server](https://discord.gg/Sfd8ADt3), our main community space for day-to-day interaction.
+Once registered, join the [Discord server]( https://discord.gg/WCrtSwn4jE), our main community space for day-to-day interaction.
 
 This is where we:
 
-- exchange ideas and resources  
-- coordinate activities and meetings  
-- ask questions and support each other  
+- Exchange ideas and resources  
+- Coordinate activities and meetings  
+- Ask questions and support each other  
 
 When you join, feel free to introduce yourself and tell us where you’re coming from in the [#👋-welcome](https://discord.com/channels/1436437755809894533/1443230192804827136) channel!
 
