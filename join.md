@@ -10,7 +10,7 @@ To be eligible for EEG101 activities and funding calls — including **Short-Ter
 
 **There is no cost to join EEG101.** Membership is open to researchers, clinicians, students, and technical specialists at all career stages and from all countries. EEG101 particularly encourages applications from individuals based in underrepresented countries, as well as from communities and groups that have historically been underrepresented in EEG research and science more broadly. Building a diverse and inclusive network is a core principle of the Action, and broader participation is essential to achieving its scientific and capacity-building goals.
 
-You can learn more about the scope, objectives, and governance of the Action in the official  [Memorandum of Understanding (MoU)](https://e-services.cost.eu/files/domain_files/CA/Action_CA24148/mou/CA24148-e.pdf)
+You can learn more about the scope, objectives, and governance of the Action in the official [Memorandum of Understanding (MoU)](https://e-services.cost.eu/files/domain_files/CA/Action_CA24148/mou/CA24148-e.pdf)
 
 Whether you’re curious, experienced, or just getting started — **you’re welcome here**.
 
