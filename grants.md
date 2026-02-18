@@ -11,7 +11,7 @@ To support your application process, COST provides standardized templates for ea
 
 **Download the templates for your funding scheme:**
 - [Short-Term Scientific Missions (STSM) Application Template](/assets/docs/cost-grant-applications-templates/STSM-application-template.docx)
-- [STSM Host Approval Template](/assets/docs/cost-grant-applications-templates/STSM-Host-approval-template.odt)
+- [STSM Host Approval Template](/assets/docs/cost-grant-applications-templates/STSM-Host-approval-template.docx)
 - [Young Researchers International Collaboration Grant (YRICG) Application Template](/assets/docs/cost-grant-applications-templates/YRICG-application-template.docx)
 - [Virtual Mobility (VM) Grant Application Template](/assets/docs/cost-grant-applications-templates/VM-grant-application-template.docx)
 - [Virtual Networking Support (VNS) Application Template](/assets/docs/cost-grant-applications-templates/VNS-application-template.docx)  
